@@ -16,3 +16,4 @@ while command != "quit":
 
 print('GAME IS OVER')
 
+print("aaaaa")
