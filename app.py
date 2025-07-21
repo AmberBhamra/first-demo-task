@@ -15,5 +15,3 @@ while command != "quit":
         print("sorry, i don't understand that ")
 
 print('GAME IS OVER')
-
-print("aaaaa")
