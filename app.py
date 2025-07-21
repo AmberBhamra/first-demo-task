@@ -14,6 +14,5 @@ while command != "quit":
     else:
         print("sorry, i don't understand that ")
 
-print("I am a Monkey")
+print('GAME IS OVER')
 
-print("I am  still a monkey")
